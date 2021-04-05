@@ -1,4 +1,4 @@
-# TheRealOne.me -Bot | Python Discord Bot
+# TheRealOne-Bot | Python Discord Bot
 
 The TheRealOne Discord Bot
 
