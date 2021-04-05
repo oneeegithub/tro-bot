@@ -4,7 +4,7 @@ The TheRealOne Discord Bot
 
 The whole project is Open Source so if you want to see the code or contribute something visit:
 
-# repl.it/@onesaurus/therealone-bot#main.py
+# replit.com/@onesaurus/therealone-bot
 
 Plese send Issues and Suggestions in the Issues Tab
 
