@@ -1,4 +1,5 @@
-TheRealOne-Bot | Python Discord Bot
+# TheRealOne.me -Bot | Python Discord Bot
+
 The TheRealOne Discord Bot
 
 Plese send Issues and Suggestions in the Issues Tab
