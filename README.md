@@ -2,9 +2,10 @@
 
 The TheRealOne Discord Bot
 
-The whole project is Open Source so if you want to see the code or contribute something visit:
+The whole project is Open Source so if you want to see the code or contribute something go to
 
-# https://replit.com/@onesaurus/TheRealOne-Bot#main.py
+# main.py
+
 
 Plese send Issues and Suggestions in the Issues Tab
 
