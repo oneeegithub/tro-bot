@@ -6,6 +6,4 @@ Plese send Issues and Suggestions in the Issues Tab
 
 A list of Commands here:
 
-# https://therealone.me/bot
-
 message one#3440 on discord for advanced help if the `tro help` command wasn't able to help you
