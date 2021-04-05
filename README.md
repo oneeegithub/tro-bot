@@ -6,4 +6,4 @@ Plese send Issues and Suggestions in the Issues Tab
 
 A list of Commands here:
 
-# therealone.me/dchelp
+# https://therealone.me/dchelp
