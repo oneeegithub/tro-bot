@@ -3,3 +3,7 @@
 The TheRealOne Discord Bot
 
 Plese send Issues and Suggestions in the Issues Tab
+
+A list of Commands here:
+
+# therealone.me/dchelp
