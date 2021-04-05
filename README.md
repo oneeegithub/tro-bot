@@ -1,2 +1,4 @@
-# tro-bot
-Repository for the TheRealOne Discord Bot
+# TheRealOne-Bot | Python Discord Bot
+The TheRealOne Discord Bot
+
+Plese send Issues and Suggestions in the Issues Tab
