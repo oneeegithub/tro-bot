@@ -2,9 +2,6 @@
 
 The TheRealOne Discord Bot
 
-The whole project is Open Source so if you want to see the code or contribute something go to
-
-# https://github.com/oneeegithub/tro-bot/blob/main/main.py
 
 
 Plese send Issues and Suggestions in the Issues Tab
